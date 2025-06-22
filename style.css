@@ -1,0 +1,6 @@
+body{
+    background-color: blueviolet;
+}
+#todoList {
+list-style-type: none;
+}
