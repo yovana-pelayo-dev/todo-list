@@ -1,6 +1,17 @@
-body{
-    background-color: blueviolet;
+
+.container{
+    display: flex;
+    background-color: rgb(246, 220, 187);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    border: 5px solid rgb(194, 136, 28);
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-top: 5rem;
 }
+
 #todoList {
 list-style-type: none;
 }
